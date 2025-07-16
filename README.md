@@ -68,9 +68,5 @@ stats.csv — a compiled table of Premier League player statistics, with each ro
 📜 License
 This project is open-source and available under the MIT License.
 
-yaml
-Copy
-Edit
-
----
+\
 
